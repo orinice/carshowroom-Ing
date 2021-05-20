@@ -84,6 +84,9 @@
     <Compile Include="VisualizacionVehiculoFRM.Designer.cs">
       <DependentUpon>VisualizacionVehiculoFRM.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="IngresoVehiculosFRM.resx">
+      <DependentUpon>IngresoVehiculosFRM.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
